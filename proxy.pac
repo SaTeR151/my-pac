@@ -71,7 +71,8 @@ var proxyDomains = {
 // ===== MY SITES: add your new domains here =====
 // Example: "some-site.com": 1,
 var myProxyDomains = {
-  "example.invalid": 1
+  "example.invalid": 1,
+  "steamdb.info":1
 };
 // ===============================================
 
