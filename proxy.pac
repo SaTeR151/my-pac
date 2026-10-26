@@ -73,6 +73,7 @@ var proxyDomains = {
 var myProxyDomains = {
   "example.invalid": 1,
   "rustcases.com":1,
+  "www.releases.com":1,
   "steamdb.info":1
 };
 // ===============================================
